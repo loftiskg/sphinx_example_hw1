@@ -1,0 +1,5 @@
+Auto Generated Code Documentation
+=================================
+.. automodule:: hw1_sphinx_Loftis_Kevin
+	:members:
+	:undoc-members:
